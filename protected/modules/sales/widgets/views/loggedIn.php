@@ -1,0 +1,2 @@
+<a href="<?php echo Yii::app()->controller->createUrl('/sales/account/account'); ?>">Mijn account</a><br />
+[<a href="<?php echo Yii::app()->controller->createUrl('/sales/account/logout'); ?>">Uitloggen</a>]
